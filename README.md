@@ -26,4 +26,6 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+<img src='https://profile-readme-generator.com/result' alt = 'Snake animation'/>
+
 ###
